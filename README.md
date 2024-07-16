@@ -1,4 +1,4 @@
-# How I got my Insane Personal CRM
+# How to use Clay to build an Insane Personal CRM
 
 Exporting data from Clay gives you almost nothing 🤮 TLDR: Licensed data sucks. Why not just scrape it then?
 
