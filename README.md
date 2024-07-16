@@ -1,6 +1,6 @@
-# The best personal CRM
+# How I got my Insane Personal CRM
 
-Exporting data from Clay gives you almost nothing. Licensed data sucks. Why not just scrape it then?
+Exporting data from Clay gives you almost nothing 🤮 TLDR: Licensed data sucks. Why not just scrape it then?
 
 Clay is a personal CRM and productivity tool. The script uses the Anon SDK to automate the browser and navigate through the Clay interface. It logs into Clay, navigates to the 'People' page, and scrapes information about each person, such as their name, details, avatar, network strength, timeline, last chat details, contact methods, and badges. The scraped data is then saved to a JSON file, which you can enhance, port over to a spreadsheet, and people track!
 
